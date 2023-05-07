@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, Python
 - 🌱 I’m currently learning C#
 - 📫 How to reach me xxrinshimaxx@gmail.com
-- ✨ I am currently working on Koks-PM-V2
+- ✨ I am currently working on Koks-PM-V3
 
 <!---
 KoksMen/KoksMen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
