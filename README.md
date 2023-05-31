@@ -28,7 +28,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/KoksMen)
 
 ### Technologies & Frameworks
-[![EntityFramework](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/KoksMen)
+[![EntityFramework](https://img.shields.io/badge/EntityFramework-black?style=for-the-badge&logo=EntityFramework)](https://github.com/KoksMen)
 [![WPF](https://img.shields.io/badge/WPF-black?style=for-the-badge&logo=WPF)](https://github.com/KoksMen)
 
 ### OS
