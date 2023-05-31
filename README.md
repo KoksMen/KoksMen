@@ -23,8 +23,8 @@
 
 ### Languages
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/KoksMen)
-[![Python](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/KoksMen)
-[![JavaSctipt](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KoksMen)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KoksMen)
+[![JavaSctipt](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/KoksMen)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/KoksMen)
 
 ### Technologies & Frameworks
