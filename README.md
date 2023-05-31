@@ -10,7 +10,7 @@
     <a href="https://steamcommunity.com/id/Koksmen">
         <img src="https://img.shields.io/badge/Steam-darkblue?style=flat-square&logo=steam" alt="Steam">
     </a>
-    <a href="[https://www.kaggle.com/KoksMen](https://www.youtube.com/channel/UCGXoOaqN6lYLX2RNeKAXr4A)">
+    <a href="https://www.youtube.com/@rinshima">
         <img src="https://img.shields.io/badge/YouTube-Red?style=flat-square&logo=YouTube" alt="YouTube">
     </a>
     <a href="https://leetcode.com/KoksMen">
