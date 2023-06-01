@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/KoksMen">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://img.shields.io/badge/©Copyright 2023-black?style=for-the-badge&logo=0)" />
   </a>
 </p>
 <!--
