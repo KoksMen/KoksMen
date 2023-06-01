@@ -11,10 +11,10 @@
         <img src="https://img.shields.io/badge/Steam-darkblue?style=flat-square&logo=steam" alt="Steam">
     </a>
     <a href="https://www.youtube.com/@rinshima">
-        <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube" alt="YouTube">
+        <img src="https://img.shields.io/badge/YouTube-brown?style=flat-square&logo=YouTube" alt="YouTube">
     </a>
-    <a href="https://leetcode.com/KoksMen">
-        <img src="https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=leetcode" alt="LeetCode">
+    <a href="https://leetcode.com/xXKoksMenXx">
+        <img src="https://img.shields.io/badge/LeetCode-purple?style=flat-square&logo=leetcode" alt="LeetCode">
     </a>
     <a href="https://vk.com/xxkoksmenxx">
         <img src="https://img.shields.io/badge/VK-blue?style=flat-square&logo=vk" alt="VK">
