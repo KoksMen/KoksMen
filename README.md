@@ -25,7 +25,7 @@
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&)](https://github.com/KoksMen)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KoksMen)
 [![JavaSctipt](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/KoksMen)
-[![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/KoksMen)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/KoksMen)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/KoksMen)
 
 ### Technologies & Frameworks
