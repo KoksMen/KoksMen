@@ -29,7 +29,7 @@
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/KoksMen)
 
 ### Technologies & Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/KoksMen)
 [![EntityFramework](https://img.shields.io/badge/EntityFramework-black?style=for-the-badge&logo=EntityFramework)](https://github.com/KoksMen)
 [![WPF](https://img.shields.io/badge/WPF-black?style=for-the-badge&logo=WPF)](https://github.com/KoksMen)
 
