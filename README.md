@@ -1,12 +1,15 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page!</b>
+    <br>
+    <br>
     <i>
         I'm Nikita.<br>
         Currently learning to json, server, entityframework.<br>
         Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
+    </i>
+    <br>
     <a href="https://steamcommunity.com/id/Koksmen">
         <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam" alt="Steam">
     </a>
@@ -45,27 +48,26 @@
 
 <p align="center">
   <a href="https://github.com/KoksMen">
-    <img src="https://github-readme-stats.vercel.app/api?username=koksmen&show_icons=true&theme=dark" />
-  </a>
-     <a href="https://github.com/KoksMen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koksmen&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KoksMen&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-
+    <a href="https://github.com/KoksMen">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=koksmen&theme=dark" />
+    </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/KoksMen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koksmen&theme=dark&hide=jupyter%20notebook&langs_count=6&layout=compact" />
-  </a>
+    <a href="https://github.com/KoksMen">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoksMen&theme=dark&layout=compact" />
+    </a>
 </p>
 
 <details>
 <p align="center">
   <a href="https://github.com/KoksMen">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoksMen&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoksMen&theme=transparent" />
   </a>
 </details>
 
