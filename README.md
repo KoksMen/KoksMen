@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/KoksMen">
-    <img src="https://github-readme-stats.vercel.app/api?username=KoksMen&theme=dark" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KoksMen&theme=dark" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
     <a href="https://github.com/KoksMen">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoksMen&theme=dark&layout=compact" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KoksMen&theme=dark" />
     </a>
 </p>
 
