@@ -1,5 +1,5 @@
 <h1 align="center">Hi, guys! 👋</h1>
-<!--<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">-->
+
 <p align="center">
     <b>Welcome to my page!</b>
     <br>
@@ -87,16 +87,12 @@
 
 
 <!--
-
 - 👋 Hi, I’m @KoksMen
 - 👀 I’m interested in C#, Python
 - 🌱 I’m currently learning C#
 - 📫 How to reach me xxrinshimaxx@gmail.com
 - ✨ I am currently working on Koks-PM-V3
 -->
-
-
-
 <!---
 KoksMen/KoksMen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
