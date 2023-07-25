@@ -86,7 +86,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=105588059)
 
 
-<!--
+<!-- 
 - 👋 Hi, I’m @KoksMen
 - 👀 I’m interested in C#, Python
 - 🌱 I’m currently learning C#
