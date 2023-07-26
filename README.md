@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b>
     <br>
-    <br>
+    <br> 
     <i>
         I'm Nikita.<br>
         Currently learning to json, client-server, api, wpf, entityframework.<br>
