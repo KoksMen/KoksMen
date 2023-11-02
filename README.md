@@ -33,16 +33,18 @@
 
 ### Technologies & Frameworks
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/KoksMen)
+[![ASP .NET Core](https://img.shields.io/badge/ASP%20.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/KoksMen)
 [![EntityFramework](https://img.shields.io/badge/EntityFramework-black?style=for-the-badge&logo=EntityFramework)](https://github.com/KoksMen)
 [![WPF](https://img.shields.io/badge/WPF-black?style=for-the-badge&logo=WPF)](https://github.com/KoksMen)
 
 ### OS
-[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/KoksMen)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://github.com/KoksMen)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/KoksMen)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/KoksMen)
 
 ### IDES
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://github.com/KoksMen)
+[![Rider](https://img.shields.io/badge/rider-brown?style=for-the-badge&logo=rider&logoColor=white)](https://github.com/KoksMen)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/KoksMen)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://github.com/KoksMen)
 
