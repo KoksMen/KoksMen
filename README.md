@@ -56,7 +56,7 @@
 
 <p align="center">
     <a href="https://github.com/KoksMen">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kok2smen&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=koksmen&theme=dark" />
     </a>
 </p>
 
