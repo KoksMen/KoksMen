@@ -6,7 +6,7 @@
     <br> 
     <i>
         I'm Nikita.<br>
-        Currently learning to json, client-server, api, wpf, entityframework.<br>
+        Currently learning to ASP .NET Core, Web API, EntityFramework Core, Json, Client-Server Application, WPF.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i>
     <br>
