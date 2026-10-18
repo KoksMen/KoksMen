@@ -8,7 +8,7 @@
   <i>Разработка высоконагруженных системных решений, кастомных Credential Provider для Windows и защищенных протоколов</i>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=koksmen&style=for-the-badge&color=7c4dff&label=Profile+Views)](https://github.com/KoksMen)
+[![Profile Views](https://hits.sh/github.com/KoksMen.svg?style=for-the-badge&label=Profile+Views&color=7c4dff)](https://hits.sh/github.com/KoksMen/)
 [![.NET 10.0](https://img.shields.io/badge/.NET-10.0%20%7C%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KoksMen)
 [![Windows 11/10](https://img.shields.io/badge/Platform-Windows%2011%20%7C%2010%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KoksMen)
 [![AppSec & Crypto](https://img.shields.io/badge/Security-AppSec%20%26%20Cryptography-brightgreen?style=for-the-badge&logo=security)](https://github.com/KoksMen)
@@ -33,29 +33,35 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,windows,py,js,ts,html,css,postgres,mysql,sqlite,docker,git,github,bash,powershell" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,windows,py,js,ts,html,css,postgres,mysql,sqlite,docker,git,github,bash,powershell&perline=9" alt="Skills" />
   </a>
 </div>
 
 <br>
 
+<div align="center">
+
 ### 💻 Языки программирования & Платформы
+
 [![C#](https://img.shields.io/badge/C%23_12-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/KoksMen)
 [![.NET 10](https://img.shields.io/badge/.NET_10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KoksMen)
 [![.NET 8 LTS](https://img.shields.io/badge/.NET_8.0_LTS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KoksMen)
+[![C/C++](https://img.shields.io/badge/C%2F%2B%2B_P%2FInvoke-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/KoksMen)
+<br>
 [![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/KoksMen)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/KoksMen)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/KoksMen)
 [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/KoksMen)
-[![C/C++](https://img.shields.io/badge/C%2F%2B%2B_P%2FInvoke-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/KoksMen)
 
 <br>
 
 ### 🪟 Windows Internals & Десктопная разработка
+
 [![Windows Credential Provider V2](https://img.shields.io/badge/Credential_Provider_V2-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KoksMen/Portal-Windows)
 [![Winlogon & LogonUI](https://img.shields.io/badge/Winlogon_%26_LogonUI-4A148C?style=for-the-badge&logoColor=white)](https://github.com/KoksMen)
 [![UAC Elevation](https://img.shields.io/badge/UAC_Consent_Provider-D32F2F?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/KoksMen)
 [![Windows DPAPI](https://img.shields.io/badge/Windows_DPAPI-0288D1?style=for-the-badge&logo=security&logoColor=white)](https://github.com/KoksMen)
+<br>
 [![WPF](https://img.shields.io/badge/WPF_XAML-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/KoksMen)
 [![Fluent 2 Design](https://img.shields.io/badge/Windows_11_Fluent_2-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/KoksMen)
 [![MVVM Toolkit](https://img.shields.io/badge/MVVM_CommunityToolkit-68217A?style=for-the-badge)](https://github.com/KoksMen)
@@ -63,10 +69,12 @@
 <br>
 
 ### 🔐 Сети, Безопасность (AppSec) & Архитектура
+
 [![mTLS WebSockets](https://img.shields.io/badge/mTLS_WebSockets-00897B?style=for-the-badge&logo=security&logoColor=white)](https://github.com/KoksMen)
 [![Bluetooth RFCOMM](https://img.shields.io/badge/Bluetooth_RFCOMM-00599C?style=for-the-badge&logo=bluetooth&logoColor=white)](https://github.com/KoksMen)
 [![PBKDF2-SHA256](https://img.shields.io/badge/PBKDF2--SHA256-D32F2F?style=for-the-badge&logo=security&logoColor=white)](https://github.com/KoksMen)
 [![SID-First Identity](https://img.shields.io/badge/SID--First_Identity-E65100?style=for-the-badge)](https://github.com/KoksMen)
+<br>
 [![Anti-BruteForce](https://img.shields.io/badge/Brute--Force_Guard-C2185B?style=for-the-badge)](https://github.com/KoksMen)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_WebAPI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KoksMen)
 [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2E7D32?style=for-the-badge)](https://github.com/KoksMen)
@@ -74,14 +82,18 @@
 <br>
 
 ### 🗄️ Базы данных, Инструменты & Среда
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/KoksMen)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/KoksMen)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/KoksMen)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/KoksMen)
+<br>
 [![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_Enterprise-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://github.com/KoksMen)
 [![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white)](https://github.com/KoksMen)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/KoksMen)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/KoksMen)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/KoksMen)
+
+</div>
 
 <br>
 
@@ -134,11 +146,18 @@ public sealed record DeveloperProfile
 
 ### 🔮 [Portal-Windows](https://github.com/KoksMen/Portal-Windows) `(v1.9.3-Herta)`
 
+<div align="center">
+
 [![Portal Version](https://img.shields.io/badge/Version-v1.9.3--Herta-7c4dff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoksMen/Portal-Windows/releases)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KoksMen/Portal-Windows)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KoksMen/Portal-Windows)
+<br>
 [![Google Play](https://img.shields.io/badge/Google%20Play-Portal%20Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.xxmrk888ytxx.portal)
 [![License GPLv3](https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge)](https://github.com/KoksMen/Portal-Windows/blob/master/LICENSE.txt)
+
+</div>
+
+<br>
 
 > **Бесшовная, безопасная и мгновенная биометрическая разблокировка Windows с вашего смартфона или умных часов.**  
 > *Seamless, secure, and instantaneous Windows unlocking using your smartphone or smartwatch.*
@@ -156,9 +175,15 @@ public sealed record DeveloperProfile
 
 ### 🛡️ [ProxyControl](https://github.com/KoksMen/ProxyControl)
 
+<div align="center">
+
 [![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/KoksMen/ProxyControl)
 [![Windows Networking](https://img.shields.io/badge/System-Windows%20Networking-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KoksMen/ProxyControl)
 [![Utility](https://img.shields.io/badge/Type-Network%20Utility-009688?style=for-the-badge)](https://github.com/KoksMen/ProxyControl)
+
+</div>
+
+<br>
 
 > **Интеллектуальный менеджер прокси-серверов и профилей маршрутизации сети под Windows.**  
 > *Windows utility for orchestrating proxy configurations, network routing, and profile switching.*
@@ -173,9 +198,15 @@ public sealed record DeveloperProfile
 
 ### 🪟 [FluentFlyout](https://github.com/KoksMen/FluentFlyout)
 
+<div align="center">
+
 [![Windows 11](https://img.shields.io/badge/Design-Fluent%202%20Design-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/KoksMen/FluentFlyout)
 [![WPF](https://img.shields.io/badge/UI-WPF%20%2F%20XAML-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/KoksMen/FluentFlyout)
 [![Modern UX](https://img.shields.io/badge/UX-Hardware%20Accelerated-brightgreen?style=for-the-badge)](https://github.com/KoksMen/FluentFlyout)
+
+</div>
+
+<br>
 
 > **Современное приложение всплывающих панелей для Windows 11 в стиле Fluent 2 Design.**  
 > *Modern flyout application for Windows 11 built with Fluent 2 Design principles.*
